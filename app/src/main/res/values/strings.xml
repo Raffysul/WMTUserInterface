@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WMTUserInterface</string>
+    <string name="to_start_working">to start working</string>
+    <string name="sign_up">Sign up</string>
+    <string name="image_logo">image logo</string>
+    <string name="your_phone_number">Your phone number</string>
+    <string name="back_to_sign_in">Back to sign in</string>
+</resources>

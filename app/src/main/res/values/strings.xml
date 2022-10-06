@@ -5,4 +5,6 @@
     <string name="image_logo">image logo</string>
     <string name="your_phone_number">Your phone number</string>
     <string name="back_to_sign_in">Back to sign in</string>
+    <string name="clikable_button">clikable button</string>
+    <string name="clickable_button" />
 </resources>
